@@ -487,8 +487,8 @@ fill: currentColor;
         color: var(--primary-color);
 }
 
-.our-works:hover,
-.our-works:focus {
+.works-item:hover,
+.works-item:focus {
 box-shadow: 1px 4px 6px 0px rgba(0, 0, 0, 0.16),
 
      0px 4px 4px 0px rgba(0, 0, 0, 0.06),
